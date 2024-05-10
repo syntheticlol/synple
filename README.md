@@ -13,7 +13,7 @@ Reconstruct hexadecimal representation of binary data into an executable file an
 
 3. **Writing to File:** Writes the binary data to an output file named "remade.exe".
 
-4. **Execution:** Attempts to execute the newly created executable essentially letting you have a fileless download executor.
+4. **Execution:** Attempts to execute the newly created executable.
 
 ### Usage:
 ```bash
