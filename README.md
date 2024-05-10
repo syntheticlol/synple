@@ -17,7 +17,7 @@ Reconstruct hexadecimal representation of binary data into an executable file an
 
 ### Usage:
 ```bash
-./file.exe -i <bin_with_hex>
+./reconstruct.exe -i <bin_with_hex>
 ```
 Replace <bin_with_hex> with the path to the file containing the hexadecimal representation of binary data.
 
